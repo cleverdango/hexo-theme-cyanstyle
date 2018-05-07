@@ -641,7 +641,7 @@ a:hover {
 .site {
 	padding: 0 24px;
 	padding: 0 1.714285714rem;
-	background-color: rgba(255, 255, 255, 0.20); /* Main Page */
+	background-color: rgba(255, 255, 255, 0.75); /* Main Page */
 }
 .site-content {
 	margin: 24px 0 0;
@@ -765,7 +765,7 @@ section[role="banner"] {
 	color: rgb(81, 165, 168); /* Widget Link Hover*/
 }
 
-}
+
 .widget-area #s {
 	width: 70.66666666666%; /* define a width to avoid dropping a wider submit button */
 }
